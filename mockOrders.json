@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "customerName": "John Doe",
+    "product": "Leather Jacket",
+    "quantity": 2,
+    "status": "Pending",
+    "orderDate": "2024-03-01"
+  },
+  {
+    "id": 2,
+    "customerName": "Jane Smith",
+    "product": "Cotton Shirt",
+    "quantity": 5,
+    "status": "Processing",
+    "orderDate": "2024-03-05"
+  }
+]
